@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\JN_API\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5AA2CD2-AD0C-4C0A-A93F-CB2FF587202A}|JN_API\\JN_API.csproj|c:\\jn_api\\jn_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5AA2CD2-AD0C-4C0A-A93F-CB2FF587202A}|JN_API\\JN_API.csproj|solutionrelative:jn_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD5DFD99-031E-0F9E-5417-587443811BA5}|JN_API\\JN_API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\jnrepo\\jn_api\\jn_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5DFD99-031E-0F9E-5417-587443811BA5}|JN_API\\JN_API.csproj|solutionrelative:jn_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\JN_API\\JN_API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_API\\JN_API\\Program.cs",
               "RelativeDocumentMoniker": "JN_API\\Program.cs",
-              "ToolTip": "C:\\JN_API\\JN_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_API\\JN_API\\Program.cs",
               "RelativeToolTip": "JN_API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

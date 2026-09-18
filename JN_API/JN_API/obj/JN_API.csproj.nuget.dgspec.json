@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\JN_API\\JN_API\\JN_API.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_API\\JN_API\\JN_API.csproj": {}
   },
   "projects": {
-    "C:\\JN_API\\JN_API\\JN_API.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_API\\JN_API\\JN_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\JN_API\\JN_API\\JN_API.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_API\\JN_API\\JN_API.csproj",
         "projectName": "JN_API",
-        "projectPath": "C:\\JN_API\\JN_API\\JN_API.csproj",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_API\\JN_API\\JN_API.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\JN_API\\JN_API\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_API\\JN_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
