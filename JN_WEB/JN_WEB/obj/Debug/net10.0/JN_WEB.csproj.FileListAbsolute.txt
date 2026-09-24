@@ -46,4 +46,4 @@ C:\Users\Usuario\OneDrive\Documents\GitHub\JNRepo\JN_WEB\JN_WEB\obj\Debug\net10.
 C:\Users\Usuario\OneDrive\Documents\GitHub\JNRepo\JN_WEB\JN_WEB\obj\Debug\net10.0\compressed\po6t1i3zy7-{0}-p7hj2jktuy-p7hj2jktuy.gz
 C:\Users\Usuario\OneDrive\Documents\GitHub\JNRepo\JN_WEB\JN_WEB\obj\Debug\net10.0\compressed\93p8ywy798-{0}-i8fj6rnb82-i8fj6rnb82.gz
 C:\Users\Usuario\OneDrive\Documents\GitHub\JNRepo\JN_WEB\JN_WEB\obj\Debug\net10.0\compressed\6iuh9feo8t-{0}-0hj58n1tze-0hj58n1tze.gz
-C:\Users\Usuario\OneDrive\Documents\GitHub\JNRepo\JN_WEB\JN_WEB\obj\Debug\net10.0\compressed\abe6wyj78w-{0}-n6yr6azyen-n6yr6azyen.gz
+C:\Users\Usuario\OneDrive\Documents\GitHub\JNRepo\JN_WEB\JN_WEB\obj\Debug\net10.0\compressed\abe6wyj78w-{0}-j5zrezhsf3-j5zrezhsf3.gz

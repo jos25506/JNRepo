@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\jnrepo\\jn_web\\jn_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|solutionrelative:jn_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\jnrepo\\jn_web\\jn_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|solutionrelative:jn_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\jnrepo\\jn_web\\jn_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|solutionrelative:jn_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\jnrepo\\jn_web\\jn_web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|solutionrelative:jn_web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\jnrepo\\jn_web\\jn_web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|solutionrelative:jn_web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\jnrepo\\jn_web\\jn_web\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|solutionrelative:jn_web\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\jnrepo\\jn_web\\jn_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D83B163-608C-4A6C-0295-FCE59C17E919}|JN_WEB\\JN_WEB.csproj|solutionrelative:jn_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,28 +54,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\JN_WEB\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "JN_WEB\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\JN_WEB\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "JN_WEB\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\JN_WEB\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "JN_WEB\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\JN_WEB\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "JN_WEB\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-18T02:37:27.632Z",
+              "WhenOpened": "2026-09-24T21:06:24.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\JN_WEB\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "JN_WEB\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\JN_WEB\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "JN_WEB\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T21:06:08.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\JN_WEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JN_WEB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\JN_WEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JN_WEB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T21:05:01.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\JN_WEB\\wwwroot\\js\\dashboard.js",
+              "RelativeDocumentMoniker": "JN_WEB\\wwwroot\\js\\dashboard.js",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\JN_WEB\\wwwroot\\js\\dashboard.js",
+              "RelativeToolTip": "JN_WEB\\wwwroot\\js\\dashboard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-09-24T21:00:33.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\JN_WEB\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "JN_WEB\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\JNRepo\\JN_WEB\\JN_WEB\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "JN_WEB\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAowJEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwI8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-18T02:10:17.965Z",
+              "WhenOpened": "2026-09-24T20:57:07.316Z",
               "EditorCaption": ""
             }
           ]
