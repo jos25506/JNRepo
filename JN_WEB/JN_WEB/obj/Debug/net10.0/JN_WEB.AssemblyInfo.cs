@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JN_WEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47611caad4804acda29a8742bc4907dbc9e2b14c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+989b9bd3cf70e249aed64f8858a5e28a56a495b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("JN_WEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JN_WEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

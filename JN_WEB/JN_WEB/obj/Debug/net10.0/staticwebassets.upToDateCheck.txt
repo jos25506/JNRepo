@@ -2,6 +2,7 @@ wwwroot\css\main.css
 wwwroot\favicon.ico
 wwwroot\images\avatar.png
 wwwroot\images\favicon.ico
+wwwroot\js\auth.js
 wwwroot\js\dashboard.js
 wwwroot\lib\apexcharts\apexcharts.css
 wwwroot\lib\apexcharts\apexcharts.min.js
@@ -23,3 +24,4 @@ C:\Users\Usuario\OneDrive\Documents\GitHub\JNRepo\JN_WEB\JN_WEB\wwwroot\lib\boot
 C:\Users\Usuario\OneDrive\Documents\GitHub\JNRepo\JN_WEB\JN_WEB\wwwroot\lib\bootstrap\js\bootstrap.bundle.min.js
 C:\Users\Usuario\OneDrive\Documents\GitHub\JNRepo\JN_WEB\JN_WEB\wwwroot\lib\flatpickr\flatpickr.min.css
 C:\Users\Usuario\OneDrive\Documents\GitHub\JNRepo\JN_WEB\JN_WEB\wwwroot\lib\flatpickr\flatpickr.min.js
+C:\Users\Usuario\OneDrive\Documents\GitHub\JNRepo\JN_WEB\JN_WEB\wwwroot\js\auth.js
